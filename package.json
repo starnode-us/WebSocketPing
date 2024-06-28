@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "http": "^0.0.1-security",
+    "ws": "^8.17.1"
+  },
+  "devDependencies": {
+    "@types/ws": "^8.5.10"
+  },
+  "name": "WebSocketPing",
+  "version": "1.0.0",
+  "main": "server.ts",
+  "author": "TheJulianJara",
+  "license": "MIT",
+  "scripts": {
+    "start": "ts-node server.ts"
+  }
+}
